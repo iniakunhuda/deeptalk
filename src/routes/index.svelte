@@ -7,7 +7,7 @@ let num = random(0, max_num);
 </script>
 
 <title>
-    kita.hebat
+    Ngobrol bareng kamu
 </title>
 
 <div class="py-12 bg-white">
@@ -33,7 +33,7 @@ let num = random(0, max_num);
             </div>
         </div>
         <p class="absolute inset-x-0 bottom-5 text-gray-400">
-            <span>Tulis dan bagikan sudut pandangmu ke Dunia</span>
+            <span>Tanyakan ke orang terdekatmu</span>
         </p>
       </div>
 
